@@ -2,7 +2,7 @@
 
 ![image](./img.png)
 
-Simple diagram drawn to explain how k8s works in a nutshell. Please correct if any mistakes, am still new to k8s :blush:
+Simple diagram drawn to explain how k8s works in a nutshell. Please correct if any mistakes, am still new to k8s :blush: Please give it a star if it helped you! :kissing_closed_eyes:
 
 ## Loading the diagram in excalidraw
 You can load the diagram in excalidraw. Head to [excalidraw.com](https://www.excalidraw.com) and select load diagram from disk.
